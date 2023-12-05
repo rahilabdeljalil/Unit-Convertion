@@ -1,0 +1,87 @@
+body {
+  background-color: #f0ffff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.conver-section{
+    display: block;
+    background-color: blueviolet;
+    
+}
+.conver-section h1 {
+    margin-top: 0px;
+    padding-top: 42px;
+    color: wheat;
+    letter-spacing: 4px;
+}
+.conver-section input {
+    display: block;
+    margin: 0 auto;
+    padding: 12px;
+    width: 40px;
+    height: 40px;
+    background-color: blueviolet;
+    border: 1px solid wheat;
+    border-radius: 9px;
+    color: #f0ffff;
+    font-size: 33px;
+    text-align: center;
+}
+.convert-btn {
+    padding: 8px 12px;
+    margin-top: 22px;
+    margin-bottom: 44px;
+    border-radius: 4px;
+    border: none;
+    color: #3c3d3d;
+    letter-spacing: 3px;
+    background-color: rgb(233, 226, 219);
+}
+
+
+.length{
+    margin-top: 15px;
+    background-color:rgb(235, 230, 230);
+}
+.volume{
+    margin-top: 15px;
+    background-color:rgb(235, 230, 230);
+}
+
+.mass{
+    margin-top: 15px;
+    background-color:rgb(235, 230, 230);
+}
+
+.length h1{
+    padding-top: 22px;
+    color: blueviolet;
+}
+.length p {
+    color:rgb(103, 101, 101);
+    margin-top: 32px;
+    padding-bottom: 42px;
+    letter-spacing: 3px;
+}
+.volume h1{
+    padding-top: 22px;
+    color: blueviolet;
+}
+.volume p {
+    color:rgb(103, 101, 101);
+    margin-top: 32px;
+    padding-bottom: 42px;
+    letter-spacing: 3px;
+}
+.mass h1{
+    padding-top: 22px;
+    color: blueviolet;
+}
+.mass p {
+    color:rgb(103, 101, 101);
+    margin-top: 32px;
+    padding-bottom: 42px;
+    letter-spacing: 3px;
+}
